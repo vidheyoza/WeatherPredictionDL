@@ -15,8 +15,6 @@ This term paper surveys various research papers aimed at forecasting weather. We
 
 # Libraries required
 numpy, pandas, matplotlib, tensorflow, keras, scikit-learn, their dependencies, and other built-in libraries.
-(main 3rd party libraries included in requirements.txt)
-
 
 # Files/directories in package 
 
